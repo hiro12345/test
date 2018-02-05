@@ -1,0 +1,11 @@
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\bin\Debug\TestLibrary1.dll
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\bin\Debug\TestLibrary1.pdb
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

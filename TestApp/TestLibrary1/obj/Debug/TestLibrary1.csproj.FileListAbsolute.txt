@@ -1,0 +1,5 @@
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestLibrary1\bin\Debug\TestLibrary1.dll
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestLibrary1\bin\Debug\TestLibrary1.pdb
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestLibrary1\obj\Debug\TestLibrary1.csprojResolveAssemblyReference.cache
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestLibrary1\obj\Debug\TestLibrary1.dll
+C:\Work\Development\アプリ開発\20180205_jenkinsTest\TestApp\TestLibrary1\obj\Debug\TestLibrary1.pdb
